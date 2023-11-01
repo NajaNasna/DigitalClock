@@ -1,6 +1,4 @@
-// let hrs= document.getElementById("hrs")
-// let min= document.getElementById("min")
-// const sec= document.getElementById("sec")
+
 
 function displayTime(){
 let time= new Date()
